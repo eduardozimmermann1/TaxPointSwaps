@@ -1,0 +1,12 @@
+# Python 3.12
+pandas
+numpy
+statsmodels
+pyfixest
+geopandas
+pyogrio
+shapely
+scipy
+matplotlib
+xlrd          # legacy .xls workbooks (FTA source, some years)
+openpyxl      # .xlsx workbooks
