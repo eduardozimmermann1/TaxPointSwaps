@@ -1,0 +1,20 @@
+# Fontes de dados brutas (ver DATA.md)
+Tax_Multipliers/
+FTA/
+ffa/
+hgv/
+geo/
+gb/
+estv/
+
+# Dados intermediários gerados pelo pipeline
+data/
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
